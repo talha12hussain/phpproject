@@ -12,7 +12,7 @@
 </td>
     </tr>
 
-
+</table>
 </form>
 
 <?php
